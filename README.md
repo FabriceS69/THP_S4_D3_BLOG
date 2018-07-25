@@ -1,7 +1,7 @@
 # THP_S4_D3_BLOG
 ### App rails du blog, avec les models, les relations <br/>
 Welcome on board mousaillon, take place for our tour in the "Blogosphère" :)
-Ruby & Rails needed :
+### Ruby & Rails needed :
 * Ruby version 2.5.1
 * Rails version 5.2.0
 ### Please check to use :
